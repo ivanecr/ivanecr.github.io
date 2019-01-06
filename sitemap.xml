@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/01/06/index/</loc>
+    
+    <lastmod>2019-01-06T10:57:03.265Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/01/06/0People/Byherto/</loc>
     
     <lastmod>2019-01-06T10:34:35.995Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://yoursite.com/2019/01/06/0People/Byherto/Test_inside/</loc>
     
     <lastmod>2019-01-06T10:31:36.314Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/01/06/index/</loc>
-    
-    <lastmod>2019-01-06T10:26:05.366Z</lastmod>
     
   </url>
   
@@ -79,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/01/01/Mio/Latex_MD_Academic/Markdown_commands/</loc>
+    <loc>http://yoursite.com/2019/01/06/Mio/Tips/0Shortcuts/</loc>
     
     <lastmod>2019-01-06T06:48:15.015Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/01/06/Mio/Tips/0Shortcuts/</loc>
+    <loc>http://yoursite.com/2019/01/01/Mio/Latex_MD_Academic/Markdown_commands/</loc>
     
     <lastmod>2019-01-06T06:48:15.015Z</lastmod>
     
