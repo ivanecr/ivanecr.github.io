@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog de Ivan</title>
+  
+  <subtitle>De todo un poco</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-06T10:26:05.366Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ivan C.</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Home Page</title>
+    <link href="http://yoursite.com/2019/01/06/index/"/>
+    <id>http://yoursite.com/2019/01/06/index/</id>
+    <published>2019-01-06T10:11:40.807Z</published>
+    <updated>2019-01-06T10:26:05.366Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Home-Page"><a href="#Home-Page" class="headerlink" title="Home Page"></a>Home Page</h2><ul><li><p><a href="/2019/01/06/0People/Byherto/">ByHerto</a></p></li><li><p><a href="/2019/01/06/0People/Yamil">Yamil</a></p></li><li><p><a href="/2019/01/06/0People/Pame">Pame</a></p></li><li><p><a href="/2019/01/06/0People/Meihua">Meihua</a></p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Home-Page&quot;&gt;&lt;a href=&quot;#Home-Page&quot; class=&quot;headerlink&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;Home Page&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;/2019/01/06/0People/Byhe
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/01/06/z_people/Byherto/Page2/"/>
+    <id>http://yoursite.com/2019/01/06/z_people/Byherto/Page2/</id>
+    <published>2019-01-06T09:33:33.166Z</published>
+    <updated>2019-01-06T09:01:04.814Z</updated>
+    
+    <content type="html"><![CDATA[<p>hi byherto</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;hi byherto&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="z_people" scheme="http://yoursite.com/categories/z-people/"/>
+    
+      <category term="Byherto" scheme="http://yoursite.com/categories/z-people/Byherto/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Programación Básica</title>
+    <link href="http://yoursite.com/2019/01/06/z_people/Jair/Programacion/"/>
+    <id>http://yoursite.com/2019/01/06/z_people/Jair/Programacion/</id>
+    <published>2019-01-06T06:42:12.000Z</published>
+    <updated>2019-01-06T09:26:23.409Z</updated>
+    
+    <content type="html"><![CDATA[<p>All the information about coding_ by Herto</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;All the information about coding_ by Herto&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="z_people" scheme="http://yoursite.com/categories/z-people/"/>
+    
+      <category term="Jair" scheme="http://yoursite.com/categories/z-people/Jair/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Programación</title>
+    <link href="http://yoursite.com/2019/01/06/z_people/Byherto/programacion/"/>
+    <id>http://yoursite.com/2019/01/06/z_people/Byherto/programacion/</id>
+    <published>2019-01-06T06:42:12.000Z</published>
+    <updated>2019-01-06T09:57:28.316Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hi by herto</p><p><a href="../../../0People/Byherto/">Volver a ByHerto</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hi by herto&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;../../../0People/Byherto/&quot;&gt;Volver a ByHerto&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="z_people" scheme="http://yoursite.com/categories/z-people/"/>
+    
+      <category term="Byherto" scheme="http://yoursite.com/categories/z-people/Byherto/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Meihua</title>
+    <link href="http://yoursite.com/2019/01/06/0People/Meihua/"/>
+    <id>http://yoursite.com/2019/01/06/0People/Meihua/</id>
+    <published>2019-01-06T06:42:12.000Z</published>
+    <updated>2019-01-06T09:01:43.087Z</updated>
+    
+    <content type="html"><![CDATA[<p>Material de español:</p><p>Enlaces Interesantes:</p><a href="/2019/01/06/0People/Meihua/test_meihua.txt" title="test_meihua.txt">test_meihua.txt</a>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Material de español:&lt;/p&gt;
+&lt;p&gt;Enlaces Interesantes:&lt;/p&gt;
+&lt;a href=&quot;/2019/01/06/0People/Meihua/test_meihua.txt&quot; title=&quot;test_meihua.txt&quot;&gt;test_m
+      
+    
+    </summary>
+    
+      <category term="0People" scheme="http://yoursite.com/categories/0People/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mita</title>
+    <link href="http://yoursite.com/2019/01/06/0People/Mita/"/>
+    <id>http://yoursite.com/2019/01/06/0People/Mita/</id>
+    <published>2019-01-06T06:42:12.000Z</published>
+    <updated>2019-01-06T09:39:06.155Z</updated>
+    
+    <content type="html"><![CDATA[<p>Enlaces interesantes:<br><a href="/2019/01/06/0People/Mita/test_mita.txt" title="test_mita.txt">test_mita.txt</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Enlaces interesantes:&lt;br&gt;&lt;a href=&quot;/2019/01/06/0People/Mita/test_mita.txt&quot; title=&quot;test_mita.txt&quot;&gt;test_mita.txt&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="0People" scheme="http://yoursite.com/categories/0People/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Pame</title>
+    <link href="http://yoursite.com/2019/01/06/0People/Pame/"/>
+    <id>http://yoursite.com/2019/01/06/0People/Pame/</id>
+    <published>2019-01-06T06:42:12.000Z</published>
+    <updated>2019-01-06T09:39:14.239Z</updated>
+    
+    <content type="html"><![CDATA[<p>Enlaces Pame:<br><a href="/2019/01/06/0People/Pame/test_pame.txt" title="test_pame.txt">test_pame.txt</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Enlaces Pame:&lt;br&gt;&lt;a href=&quot;/2019/01/06/0People/Pame/test_pame.txt&quot; title=&quot;test_pame.txt&quot;&gt;test_pame.txt&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="0People" scheme="http://yoursite.com/categories/0People/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Yamil</title>
+    <link href="http://yoursite.com/2019/01/06/0People/Yamil/"/>
+    <id>http://yoursite.com/2019/01/06/0People/Yamil/</id>
+    <published>2019-01-06T06:42:12.000Z</published>
+    <updated>2019-01-06T09:04:43.376Z</updated>
+    
+    <content type="html"><![CDATA[<p>Links:<br></p><h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Links:&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&quot;References&quot;&gt;&lt;a href=&quot;#References&quot; class=&quot;headerlink&quot; title=&quot;References&quot;&gt;&lt;/a&gt;References&lt;/h2&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="0People" scheme="http://yoursite.com/categories/0People/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ByHerto</title>
+    <link href="http://yoursite.com/2019/01/06/0People/Byherto/"/>
+    <id>http://yoursite.com/2019/01/06/0People/Byherto/</id>
+    <published>2019-01-06T06:42:12.000Z</published>
+    <updated>2019-01-06T10:34:35.995Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Enlaces-Interesantes"><a href="#Enlaces-Interesantes" class="headerlink" title="Enlaces Interesantes"></a>Enlaces Interesantes</h2><p>Test test</p><h2 id="Ingles"><a href="#Ingles" class="headerlink" title="Inglés"></a>Inglés</h2><ul><li>Diccionarios:<br>  Enlace a Pagina:<br>  <a href="../../z_people/Byherto/programacion/">enlace</a></li><li>Software</li></ul><p>Inside the folder:  <a href="../Byherto/Test_inside/">test</a></p><h2 id="Programacion"><a href="#Programacion" class="headerlink" title="Programación"></a>Programación</h2><p>Documento:<br><a href="/2019/01/06/0People/Byherto/test_Byherto.txt" title="test_Byherto.txt">test_Byherto.txt</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Enlaces-Interesantes&quot;&gt;&lt;a href=&quot;#Enlaces-Interesantes&quot; class=&quot;headerlink&quot; title=&quot;Enlaces Interesantes&quot;&gt;&lt;/a&gt;Enlaces Interesantes&lt;/h2&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="0People" scheme="http://yoursite.com/categories/0People/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Test Inside</title>
+    <link href="http://yoursite.com/2019/01/06/0People/Byherto/Test_inside/"/>
+    <id>http://yoursite.com/2019/01/06/0People/Byherto/Test_inside/</id>
+    <published>2019-01-06T06:42:12.000Z</published>
+    <updated>2019-01-06T10:31:36.314Z</updated>
+    
+    <content type="html"><![CDATA[<p>hi byherto</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;hi byherto&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="0People" scheme="http://yoursite.com/categories/0People/"/>
+    
+      <category term="Byherto" scheme="http://yoursite.com/categories/0People/Byherto/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/01/06/Mio/Tips/0Shortcuts/"/>
+    <id>http://yoursite.com/2019/01/06/Mio/Tips/0Shortcuts/</id>
+    <published>2019-01-06T05:12:53.755Z</published>
+    <updated>2019-01-06T06:48:15.015Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: Shortcut<br>date: 2019-01-01 04:14:54</p><h1 id="0A-Shortcuts"><a href="#0A-Shortcuts" class="headerlink" title="0A Shortcuts"></a>0A Shortcuts</h1><p>Created Wednesday 28 November 2018</p><p><strong>LINUX</strong></p><p>ctrl+ alt + F7 go back to the desktop env… ref <a href="https://askubuntu.com/questions/157617/reverting-from-ctrl-alt-f1" rel="external nofollow noopener noreferrer" target="_blank">https://askubuntu.com/questions/157617/reverting-from-ctrl-alt-f1</a></p><h1 id="Eclipse"><a href="#Eclipse" class="headerlink" title="Eclipse"></a>Eclipse</h1><p>Created Friday 21 December 2018</p><p>Toogle Wrap      <strong>alt+ shift + y</strong></p><p>*Cambiar Entre tabs:     <strong>Ctrl + E</strong>      o tambien:   Ctrl + PgUp/PgDn</p><p>Collapse All         <strong>Ctrl +  /  (Numpad)</strong><br>Uncollapse All       <strong>Ctrl +  *  (Numpad)</strong><br>Collapse            <strong>Ctrl + -  (Numpad)</strong><br>Uncollapse        <strong>Ctrl + + (Numpad)</strong></p><p>Ingresar a funcion:                  <strong>F3        or      </strong> <strong>Ctrl + Click   </strong><br>Volver/Ir a funcion anterior:       <strong>Ctrl + Right/Left</strong></p><h1 id="git"><a href="#git" class="headerlink" title="git"></a>git</h1><p>Created Tuesday 01 January 2019</p><p><strong>change last alias</strong>: git commit –amend</p><h1 id="vim"><a href="#vim" class="headerlink" title="vim"></a>vim</h1><p>Created Wednesday 19 December 2018</p><p><strong>Tabs</strong><br><a href="#tabnew">:tabnew</a> NOMBRE</p><p>moverse entre tabs:<br><a href="#tabNext">:tabNext</a><br><a href="#tabClose">:tabClose</a> </p><p>configure ctrl+left(right)  o tb ctrl+j(k) para mover entre tabs<br>ref<br><a href="https://superuser.com/questions/1111169/vim-open-file-in-a-new-tab" rel="external nofollow noopener noreferrer" target="_blank">https://superuser.com/questions/1111169/vim-open-file-in-a-new-tab</a><br><a href="http://vim.wikia.com/wiki/Using_tab_pages" rel="external nofollow noopener noreferrer" target="_blank">http://vim.wikia.com/wiki/Using_tab_pages</a></p><p>disable mouse:<br>set mouse =</p><h1 id="Vscode"><a href="#Vscode" class="headerlink" title="Vscode"></a>Vscode</h1><p>Created Wednesday 28 November 2018</p><p> Zen mode  Ctrl+k+z</p><p>go back from definition:   BACK          ctrl + alt  +   -<br>Go to the definition                 F12</p><p>Auto wrap… (para ventanas pequenhias )    ctrl +z            alt+z</p><p>Collapse functions (Fold)    Ctrl  + shfit + [                  Fold all            ctrl + k  ctrl +0<br>Expand functions  (Unfold)  Ctrl  + shfit + ]                   Unfold all     ctrl+k ctrl+J</p><p>Deindent    Shift + tab</p><p>Select multiple lines           ctrl + Shift + alt + UP/DOWN                   o tb      Alt + click (one by one)<br>Change a word (in the document)      1. ctrl +f (to select all the same words)     2. alt + enter  (to edit)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;title: Shortcut&lt;br&gt;date: 2019-01-01 04:14:54&lt;/p&gt;
+&lt;h1 id=&quot;0A-Shortcuts&quot;&gt;&lt;a href=&quot;#0A-Shortcuts&quot; class=&quot;headerlink&quot; title=&quot;0A Shortcut
+      
+    
+    </summary>
+    
+      <category term="Mio" scheme="http://yoursite.com/categories/Mio/"/>
+    
+      <category term="Tips" scheme="http://yoursite.com/categories/Mio/Tips/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Blog Personal</title>
+    <link href="http://yoursite.com/2019/01/06/Mio/hello-world/"/>
+    <id>http://yoursite.com/2019/01/06/Mio/hello-world/</id>
+    <published>2019-01-06T05:12:42.082Z</published>
+    <updated>2018-12-29T11:24:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Antiguo post en… <a href="https://ivancrsite.wordpress.com/" rel="external nofollow noopener noreferrer" target="_blank">Wordpress</a></p><h2 id="Comenzando"><a href="#Comenzando" class="headerlink" title="Comenzando"></a>Comenzando</h2><p>Un blog sobre seguridad, informática, tecnología, cultura china, español, proyectos sociales y más. ### HelloWorld</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ Hell0w0rld <span class="string">"Ivan"</span></span><br></pre></td></tr></table></figure><p>Blog antiguo: <a href="https://ivancrsite.wordpress.com/" rel="external nofollow noopener noreferrer" target="_blank">Ivanecr</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Antiguo post en… &lt;a href=&quot;https://ivancrsite.wordpress.com/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Wordpress&lt;/a&gt;&lt;/p
+      
+    
+    </summary>
+    
+      <category term="Mio" scheme="http://yoursite.com/categories/Mio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown Tutorial</title>
+    <link href="http://yoursite.com/2019/01/01/Mio/Latex_MD_Academic/Markdown/"/>
+    <id>http://yoursite.com/2019/01/01/Mio/Latex_MD_Academic/Markdown/</id>
+    <published>2018-12-31T20:14:54.000Z</published>
+    <updated>2019-01-06T06:48:15.015Z</updated>
+    
+    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Welcome to my blog, enter password to read." />    <label for="pass">Welcome to my blog, enter password to read.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">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</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      Welcome to my blog, enter password to read.
+    
+    </summary>
+    
+      <category term="Mio" scheme="http://yoursite.com/categories/Mio/"/>
+    
+      <category term="Latex_MD_Academic" scheme="http://yoursite.com/categories/Mio/Latex-MD-Academic/"/>
+    
+    
+      <category term="Others" scheme="http://yoursite.com/tags/Others/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown Example</title>
+    <link href="http://yoursite.com/2019/01/01/Mio/Latex_MD_Academic/Markdown_commands/"/>
+    <id>http://yoursite.com/2019/01/01/Mio/Latex_MD_Academic/Markdown_commands/</id>
+    <published>2018-12-31T20:14:54.000Z</published>
+    <updated>2019-01-06T06:48:15.015Z</updated>
+    
+    <content type="html"><![CDATA[<!-- Headings --><h1 id="Heading-1"><a href="#Heading-1" class="headerlink" title="Heading 1"></a>Heading 1</h1><h2 id="Heading-2"><a href="#Heading-2" class="headerlink" title="Heading 2"></a>Heading 2</h2><h3 id="Heading-3"><a href="#Heading-3" class="headerlink" title="Heading 3"></a>Heading 3</h3><h4 id="Heading-4"><a href="#Heading-4" class="headerlink" title="Heading 4"></a>Heading 4</h4><h5 id="Heading-5"><a href="#Heading-5" class="headerlink" title="Heading 5"></a>Heading 5</h5><h6 id="Heading-6"><a href="#Heading-6" class="headerlink" title="Heading 6"></a>Heading 6</h6><!-- Italics --><p><em>This text</em> is italic</p><p><em>This text</em> is italic</p><!-- Strong --><p><strong>This text</strong> is italic</p><p><strong>This text</strong> is italic</p><!-- Strikethrough --><p><del>This text</del> is strikethrough</p><!-- Horizontal Rule --><hr><hr><!-- Blockquote --><blockquote><p>This is a quote</p></blockquote><!-- Links --><p><a href="http://www.traversymedia.com" rel="external nofollow noopener noreferrer" target="_blank">Traversy Media</a></p><p><a href="http://www.traversymedia.com" title="Traversy Media" rel="external nofollow noopener noreferrer" target="_blank">Traversy Media</a></p><!-- UL --><ul><li>Item 1</li><li>Item 2</li><li>Item 3<ul><li>Nested Item 1</li><li>Nested Item 2</li></ul></li></ul><!-- OL --><ol><li>Item 1</li><li>Item 2</li><li>Item 3</li></ol><!-- Inline Code Block --><p><code>&lt;p&gt;This is a paragraph&lt;/p&gt;</code></p><!-- Images --><p><img src="https://markdown-here.com/img/icon256.png" alt="Markdown Logo"></p><!-- Github Markdown --><!-- Code Blocks --><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br><span class="line"></span><br><span class="line">npm start</span><br></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">add</span>(<span class="params">num1, num2</span>) </span>&#123;</span><br><span class="line">  <span class="keyword">return</span> num1 + num2;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">add</span><span class="params">(num1, num2)</span>:</span></span><br><span class="line">  <span class="keyword">return</span> num1 + num2</span><br></pre></td></tr></table></figure><!-- Tables --><table><thead><tr><th>Name</th><th>Email</th></tr></thead><tbody><tr><td>John Doe</td><td><a href="mailto:john@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">john@gmail.com</a></td></tr><tr><td>Jane Doe</td><td><a href="mailto:jane@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">jane@gmail.com</a></td></tr></tbody></table><!-- Task List --><ul><li style="list-style: none"><input type="checkbox" checked> Task 1</li><li style="list-style: none"><input type="checkbox" checked> Task 2</li><li style="list-style: none"><input type="checkbox"> Task 3</li></ul><!-- Ivan others --><p>Ivan others:<br>2 espacios para<br>salto de linea</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- Headings --&gt;
+&lt;h1 id=&quot;Heading-1&quot;&gt;&lt;a href=&quot;#Heading-1&quot; class=&quot;headerlink&quot; title=&quot;Heading 1&quot;&gt;&lt;/a&gt;Heading 1&lt;/h1&gt;&lt;h2 id=&quot;Heading-2&quot;&gt;&lt;a href=
+      
+    
+    </summary>
+    
+      <category term="Mio" scheme="http://yoursite.com/categories/Mio/"/>
+    
+      <category term="Latex_MD_Academic" scheme="http://yoursite.com/categories/Mio/Latex-MD-Academic/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>awk 管道操作小结</title>
+    <link href="http://yoursite.com/2017/04/25/Mio/Technology/Linux/Shell/awk-%E7%AE%A1%E9%81%93%E6%93%8D%E4%BD%9C%E5%B0%8F%E7%BB%93/"/>
+    <id>http://yoursite.com/2017/04/25/Mio/Technology/Linux/Shell/awk-管道操作小结/</id>
+    <published>2017-04-25T15:04:48.000Z</published>
+    <updated>2018-12-29T07:17:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>大致是希望使用 awk 读取一个文本文件，通过空行把文本分割成多个文本块，依次把每个文本块输入到一个程序，并把结果依次输出到指定文件。</p><p>先看文件结构：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ ls</span><br><span class="line">plus.sh  data.txt</span><br></pre></td></tr></table></figure><p>其中， <strong><code>plus.sh</code></strong> 文件内容如下：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#!/bin/sh</span></span><br><span class="line">IFS=<span class="string">" "</span></span><br><span class="line"><span class="built_in">read</span> a b</span><br><span class="line">((c=a+b)) </span><br><span class="line"><span class="built_in">echo</span> <span class="variable">$&#123;c&#125;</span></span><br></pre></td></tr></table></figure><p>代码含义是从标准输入读入两个数， <code>a</code> 、<code>b</code>，返回 <code>a+b</code> 的结果。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ ./plus.sh</span><br><span class="line">2 3    <span class="comment"># &lt;-- its my input</span></span><br><span class="line">5      <span class="comment"># --&gt; its result</span></span><br></pre></td></tr></table></figure><p><strong><code>data.txt</code></strong> 中的数据如下：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">0 30</span><br><span class="line"></span><br><span class="line">30 40</span><br><span class="line"></span><br><span class="line">40 80</span><br><span class="line"></span><br><span class="line">80 100</span><br></pre></td></tr></table></figure><p>目标是使用 awk 从 <code>data.txt</code> 中读入 4 组数据，分别输入到 <code>plus.sh</code> 中，返回 4 个结果值，并依次输入到 <code>output.txt</code> 中。预期结果 <code>output.txt</code> 如下：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">30</span><br><span class="line">70</span><br><span class="line">120</span><br><span class="line">180</span><br></pre></td></tr></table></figure><h2 id="经过"><a href="#经过" class="headerlink" title="经过"></a>经过</h2><p>一开始，简单的思路是，awk 使用<strong>空行分割文本文件</strong>，把每组文本块<strong>通过管道输入</strong>到调用的 <code>plus.sh</code> 中，再把每组的结果通过<strong>重定向追加</strong>到 <code>output.txt</code> 文件中。</p><p>根据思路于是写出如下代码：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ awk -v RS=<span class="string">""</span> <span class="string">'&#123;print | "./plus.sh &gt;&gt; output.txt"&#125;'</span> data.txt</span><br></pre></td></tr></table></figure><p>然而一看结果，只有第一个分段中求出来的值；</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ ls</span><br><span class="line">plus.sh  data.txt  output.txt</span><br><span class="line"></span><br><span class="line">$ cat output.txt</span><br><span class="line">30</span><br></pre></td></tr></table></figure><p>经过调试和单独输出，发现分段也没问题，单独 <code>print</code> 也是分段的没问题，于是大概猜测<strong>问题出在重定向上</strong>，除了第一个值以外的其他结果并没有被重定向到文件（此处只是当时猜测，其实不对，请看下文分析）；</p><p>通过查阅 <strong>「awk 使用管道输出到 shell 中」</strong> 的相关资料，找到问题答案：</p><blockquote><p>如果在 awk 程序中打开了管道，必须<strong>先关闭该管道才能打开另一个管道</strong>。也就是说一次只能打开一个管道。</p><p><strong>shell 命令必须被双引号引用起来。</strong></p><p>如果打算<strong>再次</strong>在 awk 程序中使用某个文件或管道进行读写，则可能要先关闭程序，因为其中的管道会保持打开状态直至脚本运行结束。注意，管道一旦被打开，就会保持打开状态直至 awk 退出。</p><p>对于 <code>awk output | shell input</code> 来说，shell 接收 awk 的输出，并进行处理。需要注意的是，<strong>awk 的 output 是先缓存在 pipe 中，等输出完毕后再调用 shell 命令 处理</strong>，shell 命令只处理一次，而且<strong>处理的时机是 「awk程序结束时，或者管道关闭时（需要显式的关闭管道）」</strong></p></blockquote><p>对于刚才的问题，简单的解释就是因为管道缓存，<code>print</code> 的所有输出被堆到一起只传了一次给 <code>plus.sh</code>，而且这一次相当于传了整个文件，但 <code>plus.sh</code> 在读了两个数计算完后就退出了，后面的所有数都没用上，由于 <code>plus.sh</code> 只计算了一次，因此结果也只有一个。（并非上面猜测的结果未被重定向）</p><h2 id="解决尝试"><a href="#解决尝试" class="headerlink" title="解决尝试"></a>解决尝试</h2><p>最初的解决尝试是使用 awk 中的 <code>close</code> 命令关闭文件管道，于是写出如下命令：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ awk -v RS=<span class="string">""</span> <span class="string">'&#123;print | "./plus.sh &gt;&gt; output.txt"; close("output.txt")&#125;'</span> data.txt</span><br></pre></td></tr></table></figure><p>结果依然只有一个值。。。</p><p>继续查阅资料才知道，<code>close</code> 关闭时需要输入的是<strong>管道描述符</strong>，而非只是文件名，而管道描述符是包含<strong>对管道调用的整个命令在内的 shell 命令字符串</strong>，也就是说，应该是 <code>close(&quot;./plus.sh &gt;&gt; output.txt&quot;)</code> 。</p><p>再次尝试代码修改如下：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">$ awk -v RS=<span class="string">""</span> <span class="string">'&#123;print | "./plus.sh &gt;&gt; output.txt"; close("./plus.sh &gt;&gt; output.txt")&#125;'</span> data.txt</span><br><span class="line"></span><br><span class="line">$ cat output.txt</span><br><span class="line">30</span><br><span class="line">70</span><br><span class="line">120</span><br><span class="line">180</span><br></pre></td></tr></table></figure><p>OK，解决问题，这句代码就是能用的了。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>总结下刚刚踩的坑，再做些优化；</p><ol><li><p>awk 中先关闭该管道才能打开另一个管道；</p></li><li><p><code>awk output | shell input</code> 时，awk 输出缓存到管道中，只有 awk 程序结束时，或者管道关闭时，才把缓存中的所有输出交由 shell 处理；</p></li><li><p>管道描述符是<strong>调用管道的整个 shell 命令字符串</strong>；（如在 <code>print | &quot;./plus.sh &gt;&gt; output.txt&quot;;</code> 中就是 <code>&quot;./plus.sh &gt;&gt; output.txt&quot;</code>）</p></li><li><p>awk 语句中使用 shell 变量</p><ol><li><p><code>&quot;&#39;$var&#39;&quot;</code> 的形式</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">var=<span class="string">"test"</span></span><br><span class="line">awk <span class="string">'BEGIN&#123;print "'</span><span class="variable">$var</span><span class="string">'"&#125;'</span></span><br></pre></td></tr></table></figure></li><li><p>变量中有空格时使用 <code>&quot;&#39;&quot;$var&quot;&#39;&quot;</code></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">var=<span class="string">"this is a test"</span> </span><br><span class="line">awk <span class="string">'BEGIN&#123;print "'</span><span class="string">"<span class="variable">$var</span>"</span><span class="string">'"&#125;'</span></span><br></pre></td></tr></table></figure></li><li><p>变量中有空格，并且变量当作 shell 命令执行时，使用 <code>&quot;\&quot;&#39;&quot;${var}&quot;&#39;\&quot;&quot;</code> 形式</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cmd=<span class="string">"./plus a and b.sh"</span></span><br><span class="line">awk <span class="string">'BEGIN&#123;print | "\"'</span><span class="string">"<span class="variable">$&#123;cmd&#125;</span>"</span><span class="string">'\""&#125;'</span></span><br></pre></td></tr></table></figure></li></ol></li></ol><p>再把上面 awk 语句写入到一个脚本中，方便调用：</p><p><strong>input_test.sh</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#!/bin/sh</span></span><br><span class="line">cmd=<span class="string">"<span class="variable">$&#123;1:-"./main.sh"&#125;</span>"</span></span><br><span class="line">data=<span class="string">"<span class="variable">$&#123;2:-"test_data.txt"&#125;</span>"</span></span><br><span class="line">output=<span class="string">"<span class="variable">$&#123;3:-"stdout.txt"&#125;</span>"</span></span><br><span class="line"></span><br><span class="line">awk -v RS=<span class="string">""</span> <span class="string">'&#123;print $n | "\"'</span><span class="string">"<span class="variable">$&#123;cmd&#125;</span>"</span><span class="string">'\" &gt;&gt; \"'</span><span class="string">"<span class="variable">$&#123;output&#125;</span>"</span><span class="string">'\"";close("\"'</span><span class="string">"<span class="variable">$&#123;cmd&#125;</span>"</span><span class="string">'\" &gt;&gt; \"'</span><span class="string">"<span class="variable">$&#123;output&#125;</span>"</span><span class="string">'\"")&#125;'</span> <span class="variable">$&#123;data&#125;</span></span><br></pre></td></tr></table></figure><p>然后我们可以调用这个脚本，帮我们分割文本做输入输出。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># input_test.sh [command] [data-file] [output-file]</span></span><br><span class="line"></span><br><span class="line">$ ./input_test.sh <span class="string">"./plus.exe"</span></span><br><span class="line"><span class="comment"># 接收三个参数，要测试的命令，数据文件，输出文件，都有默认值</span></span><br><span class="line"><span class="comment"># ==&gt; 将自动分割 test_data.txt 中的文本块分别对 plus.exe 做输入，并把结果依次写入 stdout.txt 中</span></span><br></pre></td></tr></table></figure><p><a href="./input_test.sh">可从这里获取 <code>input_test.sh</code> 源文件</a>。</p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href="http://www.cnblogs.com/dong008259/archive/2011/12/06/2277287.html" rel="external nofollow noopener noreferrer" target="_blank">linux之awk用法 | 东方雨中漫步者</a></li></ul></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;大致是希望使用 awk 读取一个文本文件，通过空行把文本分割成多个文本块，依次把每个文本块输入到一个程序，并把结果依次输出到指定文件。&lt;/p
+      
+    
+    </summary>
+    
+      <category term="Mio" scheme="http://yoursite.com/categories/Mio/"/>
+    
+      <category term="Technology" scheme="http://yoursite.com/categories/Mio/Technology/"/>
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Mio/Technology/Linux/"/>
+    
+      <category term="Shell" scheme="http://yoursite.com/categories/Mio/Technology/Linux/Shell/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Vim 粘贴模式</title>
+    <link href="http://yoursite.com/2017/01/27/Mio/Technology/Linux/Vim/Vim-%E7%B2%98%E8%B4%B4%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://yoursite.com/2017/01/27/Mio/Technology/Linux/Vim/Vim-粘贴模式/</id>
+    <published>2017-01-26T16:54:39.000Z</published>
+    <updated>2018-12-29T07:17:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在开启自动缩进的 Vim 中使用 <code>Shift + Insert</code> 键粘贴带有缩进的代码时，Vim 会把粘贴的内容当作键盘输入来处理，使得每遇到一个换行符就会添加一次自动缩进，导致原本的代码每行被依次连续往后缩，导致代码变乱。</p><p><img src="./错误添加缩进的代码.jpg" alt="错误添加缩进的代码"></p><p><img src="./原本正确的代码.jpg" alt="原本正确的代码"></p><p>既然是缩进问题，首先尝试的是取消自动缩进功能：</p><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">" 关闭自动缩进和智能缩进</span></span><br><span class="line"><span class="comment">" set noai</span></span><br><span class="line"><span class="comment">" set nosi</span></span><br><span class="line">:<span class="keyword">set</span> nosmartindent </span><br><span class="line">:<span class="keyword">set</span> noautoindent</span><br></pre></td></tr></table></figure><p>关闭自动缩进后，有时能解决错行了，有时还是不行。</p><p>更推荐的做法是使用 Vim 的 Paste 模式，这个是 Vim 自带的，为了避免粘贴时出现一些格式错误而使用的。</p><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">" 开启粘贴模式</span></span><br><span class="line">:<span class="keyword">set</span> paste</span><br><span class="line"><span class="comment">" 取消粘贴模式</span></span><br><span class="line">:<span class="keyword">set</span> nopaste</span><br></pre></td></tr></table></figure><p>在粘贴模式下（Paste Mode），粘贴内容不会出现代码变形，通过部分了解，发现粘贴模式修改了好几项设置：</p><ul><li>textwidth 设置为 0</li><li>wrapmargin 设置为 0</li><li>softtabstop 设置为 0</li><li>关闭自动缩进（noautoindent  nosmartindent）</li><li>重置 revins</li><li>重置 ruler</li><li>重置 showmatch</li><li>清空 formatoptions</li><li>禁用 lisp</li><li>禁用 indentexpr</li><li>禁用 cindent</li></ul><p>所以之前说的关闭自动缩进只是 Paste 模式下的一项，考虑不够全面，所以有时还是会格式错位。</p><p>并且 Paste 模式本身有一个切换选项 <code>pastetoggle</code> 可以直接绑定快捷键来方便切换开启和取消粘贴模式。</p><figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">:<span class="keyword">set</span> pastetoggle=<span class="symbol">&lt;F11&gt;</span></span><br></pre></td></tr></table></figure><p>这样只需要按 <code>F11</code> 就能开启和取消粘贴模式了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在开启自动缩进的 Vim 中使用 &lt;code&gt;Shift + Insert&lt;/code&gt; 键粘贴带有缩进的代码时，Vim 会把粘贴的内容当作键盘输入来处理，使得每遇到一个换行符就会添加一次自动缩进，导致原本的代码每行被依次连续往后缩，导致代码变乱。&lt;/p&gt;
+&lt;p&gt;&lt;img 
+      
+    
+    </summary>
+    
+      <category term="Mio" scheme="http://yoursite.com/categories/Mio/"/>
+    
+      <category term="Technology" scheme="http://yoursite.com/categories/Mio/Technology/"/>
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Mio/Technology/Linux/"/>
+    
+      <category term="Vim" scheme="http://yoursite.com/categories/Mio/Technology/Linux/Vim/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+      <category term="Vim" scheme="http://yoursite.com/tags/Vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu 16.04 开机默认命令行界面</title>
+    <link href="http://yoursite.com/2017/01/23/Mio/Technology/Linux/Ubuntu/Ubuntu-16-%E5%BC%80%E6%9C%BA%E9%BB%98%E8%AE%A4%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%95%8C%E9%9D%A2/"/>
+    <id>http://yoursite.com/2017/01/23/Mio/Technology/Linux/Ubuntu/Ubuntu-16-开机默认命令行界面/</id>
+    <published>2017-01-22T19:43:10.000Z</published>
+    <updated>2018-12-29T07:17:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="关闭图形界面，默认命令行"><a href="#关闭图形界面，默认命令行" class="headerlink" title="关闭图形界面，默认命令行"></a>关闭图形界面，默认命令行</h3><ol><li><p>不推介，不可恢复</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo systemctl <span class="built_in">disable</span> lightdm.service</span><br></pre></td></tr></table></figure><p> 将会直接卸载删除 lightdm，目前没找到直接恢复办法。</p></li></ol><ol start="2"><li><p><strong>推介</strong>，安全，可恢复</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo systemctl <span class="built_in">set</span>-default multi-user.target</span><br></pre></td></tr></table></figure><p>只是修改默认交互目标，开机不会后台启动桌面。</p></li></ol><h3 id="开启图形界面，默认图新界面"><a href="#开启图形界面，默认图新界面" class="headerlink" title="开启图形界面，默认图新界面"></a>开启图形界面，默认图新界面</h3><ol><li><p>针对上述第一条，只能重装 lightdm</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install --reinstall lightdm</span><br></pre></td></tr></table></figure></li><li><p>对应上述第二条，再切换回默认图形交互</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo systemctl <span class="built_in">set</span>-default graphical.target</span><br></pre></td></tr></table></figure></li><li><p>临时开启</p><p>刚刚两条都是需要要配置后重启的，不过就算不切换默认，或者在重启之前，任何时候都可以临时开启图形界面：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo systemctl start lightdm</span><br></pre></td></tr></table></figure><p>只限当次开机中，如果没有切换默认图形界面，下次开机任然会是命令行界面。</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;关闭图形界面，默认命令行&quot;&gt;&lt;a href=&quot;#关闭图形界面，默认命令行&quot; class=&quot;headerlink&quot; title=&quot;关闭图形界面，默认命令行&quot;&gt;&lt;/a&gt;关闭图形界面，默认命令行&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;不推介，不可恢复&lt;/p&gt;
+&lt;figure 
+      
+    
+    </summary>
+    
+      <category term="Mio" scheme="http://yoursite.com/categories/Mio/"/>
+    
+      <category term="Technology" scheme="http://yoursite.com/categories/Mio/Technology/"/>
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Mio/Technology/Linux/"/>
+    
+      <category term="Ubuntu" scheme="http://yoursite.com/categories/Mio/Technology/Linux/Ubuntu/"/>
+    
+    
+      <category term="Ubuntu" scheme="http://yoursite.com/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 命令控制屏幕</title>
+    <link href="http://yoursite.com/2017/01/22/Mio/Technology/Linux/Linux-%E5%91%BD%E4%BB%A4%E6%8E%A7%E5%88%B6%E5%B1%8F%E5%B9%95/"/>
+    <id>http://yoursite.com/2017/01/22/Mio/Technology/Linux/Linux-命令控制屏幕/</id>
+    <published>2017-01-21T19:13:34.000Z</published>
+    <updated>2018-12-29T07:17:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="关闭屏幕"><a href="#关闭屏幕" class="headerlink" title="关闭屏幕"></a>关闭屏幕</h2><p>适合没有关闭屏幕快捷键的笔记本等设备。</p><ul><li>/sys 文件方式：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo tee /sys/class/backlight/intel_backlight/brightness &lt;&lt;&lt; 0</span><br></pre></td></tr></table></figure><p> 亮度值根据情况选择，一般 0 即为关闭。</p><ul><li>xset 命令方式：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">xset dpms force off</span><br></pre></td></tr></table></figure><p> 实际使用时可写成脚本，然后设置自定义快捷键来运行。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;关闭屏幕&quot;&gt;&lt;a href=&quot;#关闭屏幕&quot; class=&quot;headerlink&quot; title=&quot;关闭屏幕&quot;&gt;&lt;/a&gt;关闭屏幕&lt;/h2&gt;&lt;p&gt;适合没有关闭屏幕快捷键的笔记本等设备。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;/sys 文件方式：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure
+      
+    
+    </summary>
+    
+      <category term="Mio" scheme="http://yoursite.com/categories/Mio/"/>
+    
+      <category term="Technology" scheme="http://yoursite.com/categories/Mio/Technology/"/>
+    
+      <category term="Linux" scheme="http://yoursite.com/categories/Mio/Technology/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
